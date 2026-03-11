@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "premises": "1. Miroslav Venhoda was a Czech choral conductor who specialized in the performance of Renaissance and Baroque music.\n2. Any choral conductor is a musician.\n3. Some musicians love music.\n4. In 1946, Miroslav Venhoda published a book called Method of Studying Gregorian Chant.",
+    "question": "Assuming no other commonsense or world knowledge, is the statement:\n\"No choral conductor specialized in the performance of Renaissance.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and encode the final answer in <answer></answer>.",
+    "answer": "necessarily false"
+  },
+  {
+    "id": "2",
+    "premises": "1. Some fish sting people.\n2. Stonefish is a fish.\n3. Stonefish stings when stepped on.\n4. If a stonefish stings someone and they are not treated, it can cause death to them.\n5. To treat stonefish stings, apply heat to the affected area or use an antivenom.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"Stings of some fish can cause death if not treated.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and encode the final answer in <answer></answer>.",
+    "answer": "necessarily true"
+  },
+  {
+    "id": "3",
+    "premises": "1. Six, seven, and eight are real numbers.\n2. If a real number equals another real number plus one, the first number is larger.\n3. If number x is larger than number y, then y is not larger than x.\n4. Seven equals six plus one.\n5. Eight equals seven plus one.\n6. Two is positive.\n7. If a number is positive, then its double is also positive.\n8. Eight is the double of four.\n9. Four is the double of two.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"Eight is larger than seven.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "necessarily true"
+  },
+  {
+    "id": "4",
+    "premises": "1. Six, seven, and eight are real numbers.\n2. If a real number equals another real number plus one, the first number is larger.\n3. If number x is larger than number y, then y is not larger than x.\n4. Seven equals six plus one.\n5. Eight equals seven plus one.\n6. Two is positive.\n7. If a number is positive, then its double is also positive.\n8. Eight is the double of four.\n9. Four is the double of two.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"Six is larger than seven.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "necessarily false"
+  },
+  {
+    "id": "5",
+    "premises": "1. Some cats are not pets.\n2. All cats are mammals.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"Some mammals are not pets.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "necessarily true"
+  },
+  {
+    "id": "6",
+    "premises": "1. If two soccer teams score the same number of goals in a UCL final during regular time, they must play extra time.\n2. If two soccer teams score the same number of goals in a UCL final during both regular time and extra time, they must play a penalty shoot-out.\n3. Real Madrid and Atlético Madrid both scored one goal in the 2016 UCL final during regular time.\n4. Real Madrid and Atlético Madrid both scored zero goals in the 2016 UCL final during extra time.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"Real Madrid and Atlético Madrid needed to play a penalty shoot-out in the 2016 UCL final.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "necessarily true"
+  },
+  {
+    "id": "7",
+    "premises": "1. If two soccer teams score the same number of goals in a UCL final during regular time, they must play extra time.\n2. If two soccer teams score the same number of goals in a UCL final during both regular time and extra time, they must play a penalty shoot-out.\n3. Real Madrid and Atlético Madrid both scored one goal in the 2016 UCL final during regular time.\n4. Real Madrid and Atlético Madrid both scored zero goals in the 2016 UCL final during extra time.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"Real Madrid and Atlético Madrid did not need to play a penalty shoot-out in the 2016 UCL final.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "necessarily false"
+  },
+  {
+    "id": "8",
+    "premises": "1. When something is depressing, it is sad.\n2. The end of a relationship is depressing.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"The end of a relationship is invigorating.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "neither"
+  },
+  {
+    "id": "9",
+    "premises": "1. All juvenile delinquents have committed a crime.\n2. Some juvenile delinquents are products of broken homes.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"Some people who have committed a crime are products of broken homes.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "necessarily true"
+  },
+  {
+    "id": "10",
+    "premises": "1. Trees are plants.\n2. Some living things are trees.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"Some living things are plants.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "necessarily true"
+  },
+  {
+    "id": "11",
+    "premises": "1. All squares are four-sided.\n2. All four-sided things are shapes.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"All squares are shapes.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "necessarily true"
+  },
+  {
+    "id": "12",
+    "premises": "1. All horses have hooves.\n2. No humans have hooves.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"Some humans are horses.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "necessarily false"
+  },
+  {
+    "id": "13",
+    "premises": "1. Not all art pieces require talent.\n2. Everything that requires talent requires practice.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"There exist art pieces that do not require practice.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "necessarily true"
+  },
+  {
+    "id": "14",
+    "premises": "1. If a person is hungry, the person is uncomfortable.\n2. If a person is uncomfortable, the person is unhappy.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"If a person is not hungry, the person is unhappy.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "neither"
+  },
+  {
+    "id": "15",
+    "premises": "1. Surprises are either fun or dreadful.\n2. All scares are surprises.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"All scares are fun.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>",
+    "answer": "neither"
+  },
+  {
+    "id": "16",
+    "premises": "1. A hawk never swims.\n2. Some birds are hawks.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"All birds swim.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "necessarily false"
+  },
+  {
+    "id": "17",
+    "premises": "1. All bears in deserts are not animals.\n2. Some bears are in deserts.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"Not all bears are animals.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "necessarily true"
+  },
+  {
+    "id": "18",
+    "premises": "1. If a person is hungry, the person is satisfied.\n2. If a person is satisfied, the person is starving.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"If a person is not hungry, the person is starving.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "either"
+  },
+  {
+    "id": "19",
+    "premises": "1. A mammal never breathes.\n2. Some birds are mammals.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"All birds breathe.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "necessarily false"
+  },
+  {
+    "id": "20",
+    "premises": "1. If something can transport multiple passengers, then it is not a one-seater.\n2. All corgis can transport multiple passengers.\n3. All single-seat electric cars are one-seaters.\n4. All Solo EV cars are single-seat electric cars.\n5. If the Queen's dogs are not corgis, then the Queen's dogs are not corgis or a single-seat electric car.",
+    "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"The Queen's dogs are corgis.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
+    "answer": "neither"
+  }
+]
