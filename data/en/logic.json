@@ -105,7 +105,7 @@
     "id": "18",
     "premises": "1. If a person is hungry, the person is satisfied.\n2. If a person is satisfied, the person is starving.",
     "question": "Assuming no other commonsense or world knowledge, is the sentence:\n\"If a person is not hungry, the person is starving.\"\n    • necessarily true\n    • necessarily false\n    • or neither?\nPlease answer using one of these options and write the final answer inside <answer></answer>.",
-    "answer": "either"
+    "answer": "neither"
   },
   {
     "id": "19",

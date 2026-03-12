@@ -51,7 +51,7 @@
   },
   {
     "id": "11",
-    "question": "In this task, a mathematical word problem is provided, and the objective is to determine the total number of gems in a treasure chest. The solution should follow logical reasoning based on the given relationships.\nQuestion\nA treasure hunter found a buried treasure chest filled with gems. There were 175 diamonds, 35 fewer rubies than diamonds, and twice the number of emeralds as rubies. How many gems were there in total in the chest?",
+    "question": "In this task, a mathematical word problem is provided, and the objective is to determine the total number of gems in a treasure chest. The solution should follow logical reasoning based on the given relationships. The final result must be encoded using the <answer></answer> tag format.\nQuestion\nA treasure hunter found a buried treasure chest filled with gems. There were 175 diamonds, 35 fewer rubies than diamonds, and twice the number of emeralds as rubies. How many gems were there in total in the chest?",
     "answer": "595"
   },
   {
